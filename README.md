@@ -130,4 +130,4 @@ Help Topics will simplify the help desk experience for your end users and ensure
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-  osTicket is now set up. The following lesson will demonstrate how to submit and respond to tickets.This will help you gain confidence and skill. The ticketing system is vital in the Help Desk profession.
+  osTicket is now set up. The following tutorial will demonstrate how to submit and respond to tickets.This will help you gain confidence and skill. The ticketing system is vital in the Help Desk profession.

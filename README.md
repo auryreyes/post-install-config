@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Step 1. Configure Roles</h3>
 
-Agents are assigned roles based on the Departments to which they have access. We’ll create a role called “Supreme Admin” and add an agent to have access to all permissions.
+Agents are assigned roles based on the Departments to which they have access.
 
 **Add Role**
 - Admin Panel -> Agents -> Roles -> Add New Role

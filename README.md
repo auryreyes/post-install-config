@@ -95,7 +95,7 @@ You can group Agents from several Departments using teams to solve a certain pro
 <img src="https://i.imgur.com/kcW6wER.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h3>Step 5. Configure Agents(Workers)</h3>
+<h3>Step 5. Configure Agents (Workers)</h3>
 
 Agents are granted access to the help desk in order to respond to and resolve tickets.
 Create two Agents, Jane Doe with administrator access and John Doe as a support.
